@@ -1,3 +1,3 @@
 # kokoa clone 2023
 
-Star my code journy
+Start my code journy
